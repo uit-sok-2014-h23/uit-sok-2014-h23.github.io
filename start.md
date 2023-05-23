@@ -1,6 +1,4 @@
 
----
-
 Offentlige ressurser er knappe, og mange gode formål konkurrerer om tilgjengelige midler. Det er derfor viktig at prioriteringen mellom ulike formål, enten dette foretas på administrativt eller politisk plan, er velbegrunnet og rasjonell. Nytte-kostnadsanalyse er et analyseverktøy for allokering av knappe ressurser, og brukes for å vurdere lønnsomhet i ulike typer store offentlige prosjekt.
 
 Kurset vil dekke grunnleggende teoretiske og metodisk/empiriske forhold, og flere case vil bli benyttet for å anskueliggjøre temaet.
