@@ -75,7 +75,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/10909365890002205){:target="blank"}  
 
 Hovedbok: Introduction to cost-benefit analysis, 2. utg, 2021, Ginés de Rus.        
-[Veileder i samfunnsøkonomiske analyser](https://dfo.no/veileder-i-samfunnsokonomiske-analyser/4-utvalgte-temaer-i-samfunnsokonomiske-analyser){:target="blank"}, Direktoratet for økonomistyring (DFO), Juni 2023.        
+[Veileder i samfunnsøkonomiske analyser](https://dfo.no/veileder-i-samfunnsokonomiske-analyser/4-utvalgte-temaer-i-samfunnsokonomiske-analyser){:target="blank"}, Direktoratet for forvaltning og økonomistyring (DFØ), Juni 2023.        
 Flere samfunnsøkonomiske analyser vil bli opplyst om under forelesningene.
 
 
