@@ -86,7 +86,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 - [Musikk i kroner og ører - Samfunnsøkonomiske gevinster ved det frivillige musikklivet](/articles/va-rapport_2021-21_musikk_i_kroner_og_orer.pdf){:target="blank"}, Vista Analyse, 2021
 - [Samfunnsøkonomisk analyse av Nye servicejobber](/articles/va-rapport_2021-37_nye_servicejobber.pdf){:target="blank"}, Vista Analyse, 2021
 - [Nytten av idrettsanlegg og betydning for fysisk aktivitet](/articles/va-rapport_2022-20_nytten_av_idrettsanalegg.pdf){:target="blank"}, Vista Analyse, 2022
-- [Nyttekostanalyse Nord Norgebanen](/articles/vedlegg-11-nyttekostrapport-nnb.pdf){:target="blank"}, Jernbanedirektoratet, 2019
+- [Nyttekostanalyse Nord-Norgebanen](/articles/vedlegg-11-nyttekostrapport-nnb.pdf){:target="blank"}, Jernbanedirektoratet, 2019
 
 
 
