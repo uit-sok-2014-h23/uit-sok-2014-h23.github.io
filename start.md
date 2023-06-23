@@ -43,30 +43,25 @@ Studenten kan
 
 •           presentere resultatene i ulike form for både fagpersoner og andre.
 
-
+Fullstendig beskrivelse finnes [her](https://uit.no/utdanning/aktivt/emne/SOK-2014){:target="blank"}
 
 ## Kursplan  
 
-Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
-Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
+Kursplanen inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
+Der finner du oggså oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
-- [Forelesningsplan](forelesningsplan.html){:target="blank"}
-- [Seminarplan](seminarplan.html){:target="blank"}
-- [Innleveringsplan](innleveringer.html){:target="blank"}   
-
-
+- [kursplan](kursplan.html){:target="blank"}
+ 
 [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
 
 
-## Kursbeskrivelse 
-
-
-Kurset består av ulike interessante tema  
+ 
 
 
 ## Faglærerinfo  
-- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}
+
+- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}(fagansvarlig)
+- [Tapas Kundu](https://www.oslomet.no/om/ansatt/tapkun/){:target="blank"}
 
 
 
@@ -77,10 +72,8 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 ## Pensum  
 
-### Pensum til forelesningene
 
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
-
 
 
 
