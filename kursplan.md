@@ -1,13 +1,13 @@
 {% include navbar_open.html %}{% include top-box.html %}
 # Kursplan  
 
-TK - Tapas Kundu
-ES - Espen Sirnes
-F = Forelesning
-AK = Arbeidskrav
-PRO = Prosjektoppgave
+TK - Tapas Kundu      
+ES - Espen Sirnes     
+F = Forelesning     
+AK = Arbeidskrav      
+PRO = Prosjektoppgave    
     
-GdR - Introduction to cost-benefit analysis, 2. utg., Ginés de Rus
+GdR - Introduction to cost-benefit analysis, 2. utg., Ginés de Rus       
 Veil: [Veileder i samfunnsøkonomiske analyser](https://dfo.no/sites/default/files/2023-06/Veileder-i-samfunnsokonomiske-analyser_210623_DFO.pdf){:target='_blank_'}, Direktoratet for forvaltning og økonomistyring (DFØ), 2023          
 
 |Dato <img width=100/>| Sesjon <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
