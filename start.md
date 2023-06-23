@@ -75,8 +75,16 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/10909365890002205){:target="blank"}  
 
 Hovedbok: Introduction to cost-benefit analysis, 2. utg, 2021, Ginés de Rus.        
+[Prinsipper og krav ved utarbeidelse av samfunnsøkonomiske analyser](/articles/rundskriv_109_2021.pdf){:target="blank"}, Rudnskriv R-106 fra Finansdepartementet, 2021
 [Veileder i samfunnsøkonomiske analyser](https://dfo.no/veileder-i-samfunnsokonomiske-analyser/4-utvalgte-temaer-i-samfunnsokonomiske-analyser){:target="blank"}, Direktoratet for forvaltning og økonomistyring (DFØ), Juni 2023.        
-Flere samfunnsøkonomiske analyser vil bli opplyst om under forelesningene.
+
+*Analyser*        
+- [Samfunnsøkonomisk analyse av lisensordning for pengespill](/articles/2018-68-Samfunnsøkonomisk-analyse-av-lisensordning-for-pengespill-1.pdf){:target="blank"}, Menon Economics, 2018.
+- [Musikk i kroner og ører - Samfunnsøkonomiske gevinster ved det frivillige musikklivet](/articles/va-rapport_2021-21_musikk_i_kroner_og_orer.pdf){:target="blank"}, Vista Analyse, 2021
+- [Samfunnsøkonomisk analyse av Nye servicejobber](/articles/va-rapport_2021-37_nye_servicejobber.pdf){:target="blank"}, Vista Analyse, 2021
+- [Nytten av idrettsanlegg og betydning for fysisk aktivitet](/articles/va-rapport_2022-20_nytten_av_idrettsanalegg.pdf){:target="blank"}, Vista Analyse, 2022
+- [Nyttekostanalyse Nord Norgebanen](/articles/vedlegg-11-nyttekostrapport-nnb.pdf){:target="blank"}, Jernbanedirektoratet, 2019
+
 
 
 ## Kunngjøringer  
