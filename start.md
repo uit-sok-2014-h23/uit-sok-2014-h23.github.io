@@ -51,7 +51,7 @@ Kursplanen inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/o
 Der finner du oggså oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
 - [Kursplan](kursplan.html){:target="blank"}
-- [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
+- [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=23h&fag=&module[]=SOK-2014-1#week-25){:target="blank"} på timeplan.uit.no
 
 
  
