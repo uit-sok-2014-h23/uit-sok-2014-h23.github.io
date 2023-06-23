@@ -50,9 +50,8 @@ Fullstendig beskrivelse finnes [her](https://uit.no/utdanning/aktivt/emne/SOK-20
 Kursplanen inneholder informasjon om tidspunkt, tema, faglærer samt ressurser/oppgaver til hvert tema.  
 Der finner du oggså oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
-- [kursplan](kursplan.html){:target="blank"}
- 
-[Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
+- [Kursplan](kursplan.html){:target="blank"}
+- [Timeplan](https://timeplan.uit.no/){:target="blank"} på timeplan.uit.no
 
 
  
@@ -73,8 +72,10 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 ## Pensum  
 
 
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/){:target="blank"}  
+[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/10909365890002205){:target="blank"}  
 
+Hovedbok: Introduction to cost-benefit analysis, 2. utg, 2021, Ginés de Rus.
+[Veileder i samfunnsøkonomiske analyser](https://dfo.no/veileder-i-samfunnsokonomiske-analyser/4-utvalgte-temaer-i-samfunnsokonomiske-analyser){:target="blank"}, Direktoratet for økonomistyring (DFO), Juni 2023
 
 
 ## Kunngjøringer  
@@ -86,5 +87,5 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
 
-Frister, oppgaver og ressurser finnes i [innleveringsplan](innleveringer.html){:target="blank"}.    
+Frister, oppgaver og ressurser finnes i [kursplan](kursplan.html){:target="blank"}.    
 
