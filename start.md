@@ -59,7 +59,7 @@ Der finner du oggså oppgaver, frister og ressurser i forbindelse med obligatori
 
 ## Faglærerinfo  
 
-- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"}(fagansvarlig)
+- [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"} (fagansvarlig)
 - [Tapas Kundu](https://www.oslomet.no/om/ansatt/tapkun/){:target="blank"}
 
 
