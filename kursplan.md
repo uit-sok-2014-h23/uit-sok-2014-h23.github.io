@@ -12,7 +12,7 @@ Veil: [Veileder i samfunnsøkonomiske analyser](https://dfo.no/sites/default/fil
 
 |Dato <img width=100/>| Sesjon <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
-| Før 24. august|F1   | Innledning - Hva er kostnads-nytte analyse, og hvordan gjennomføres dette?     | ES       | GdR Kap 1, Veil Kap. 1, 2, 3.1, 3.2  | 
+| Før 17. august|F1   | Innledning - Hva er kostnads-nytte analyse, og hvordan gjennomføres dette?     | ES       | GdR Kap 1, Veil Kap. 1, 2, 3.1, 3.2  | 
 |24. august|F2  | Direkte private og sosiale effekter  | TK | GdR Kap 2 |
 |25. august|F3  | Indirekte effekter  | TK | GdR Kap 3 |
 |uke 35 |F4  | Identifisering av virkninger og ringvirkninger  | ES | Veil Kap 3.3, 4.3 vedlegg 1.1 |
