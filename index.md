@@ -81,7 +81,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 *Norske veiledere*        
 
 [Prinsipper og krav ved utarbeidelse av samfunnsøkonomiske analyser](/articles/rundskriv_109_2021.pdf){:target="blank"}, Rundskriv R-106 fra Finansdepartementet, 2021      
-[Veileder i samfunnsøkonomiske analyser](https://dfo.no/veileder-i-samfunnsokonomiske-analyser/4-utvalgte-temaer-i-samfunnsokonomiske-analyser){:target="blank"}, Direktoratet for forvaltning og økonomistyring (DFØ), Juni 2023.          
+[Veileder i samfunnsøkonomiske analyser](https://dfo.no/veileder-i-samfunnsokonomiske-analyser/){:target="blank"}, Direktoratet for forvaltning og økonomistyring (DFØ), Juni 2023.          
 
 *Analyser*        
 - [Samfunnsøkonomisk analyse av lisensordning for pengespill](/articles/2018-68-Samfunnsøkonomisk-analyse-av-lisensordning-for-pengespill-1.pdf){:target="blank"}, Menon Economics, 2018.
