@@ -74,7 +74,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 ## Pensum  
 
 
-[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/10909365890002205){:target="blank"}  
+[Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/){:target="blank"}  
 
 *Hovedbok*: Introduction to cost-benefit analysis, 2. utg, 2021, Ginés de Rus.        
 
