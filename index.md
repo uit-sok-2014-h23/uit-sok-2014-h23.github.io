@@ -89,7 +89,12 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/){:
 
 ## Innlevering og eksamen  
 
-Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
+Kurset har mappeevaluering med følgende oppgaver (alle er obligatorisk):
+1. To obligatoriske oppgaver  (arbeidskrav som må være bestått)
+2. Presentasjon av prosjektoppgaven (arbeidskrav som må være bestått)
+3. Prosjektoppgave (karaktergivende eksamensopgave)
+
+
 
 Frister, oppgaver og ressurser finnes i [kursplan](kursplan.html){:target="blank"}.    
 
