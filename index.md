@@ -9,7 +9,6 @@ Hva lærer du
 
 
 ### Kunnskap
-Studenten har
 
 •           grunnleggende kunnskap om gjennomføringen av en nytte-kostnadsanalyse
 
@@ -24,7 +23,6 @@ Studenten har
  
 
 ## Ferdigheter
-Studenten kan
 
 •           forstå det teoretiske grunnlaget for nytte-kostnadsanalyser
 
@@ -37,7 +35,6 @@ Studenten kan
  
 
 ### Generell kunnskap
-Studenten kan
 
 •           samle inn relevant data som legges til grunn for en nytte-kostnadsanalyse
 
@@ -55,16 +52,10 @@ Der finner du oggså oppgaver, frister og ressurser i forbindelse med obligatori
 - [Kursplan](kursplan.html){:target="blank"}
 - [Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=23h&fag=&module[]=SOK-2014-1#week-25){:target="blank"} på timeplan.uit.no
 
-
- 
-
-
 ## Faglærerinfo  
 
 - [Espen Sirnes](https://uit.no/ansatte/person?p_document_id=41418){:target="blank"} (fagansvarlig)
 - [Tapas Kundu](https://www.oslomet.no/om/ansatt/tapkun/){:target="blank"}
-
-
 
 ## Administrative spørsmål
 
@@ -72,7 +63,6 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 
 ## Pensum  
-
 
 [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists){:target="blank"}  
 
