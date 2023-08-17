@@ -16,7 +16,6 @@ Veil: [Veileder i samfunnsøkonomiske analyser](https://dfo.no/sites/default/fil
 |24. august|F2  | Direkte private og sosiale effekter  | TK | GdR Kap 2 |
 |25. august|F3  | Indirekte effekter  | TK | GdR Kap 3 |
 |30. august |F4  | Identifisering av virkninger og ringvirkninger  | ES | Veil Kap 3.3, 4.3 vedlegg 1.1 |
-|uke 35 |AK 1  | Utdeling av første arbeidskrav |  | Lenke kommer her |
 |7. september|F5  | Alternative kostnader, markedspris, og skyggepris  | TK | GdR Kap 4 |
 |8. september|F6  | Diskontering og beslutningskriterier  | TK | GdR Kap 5, 6 |
 |15. september|F7  | Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet  | ES | Veil Kap 3.4, 3.5 |
@@ -24,11 +23,9 @@ Veil: [Veileder i samfunnsøkonomiske analyser](https://dfo.no/sites/default/fil
 |21. september|F8  | Verdsetting av virkninger uten markedspris  | TK | GdR Kap 7, 8 |
 |22. september|F9  | Usikkerhet  | TK | GdR Kap. 9 |
 |28. september |F10  | Virkninger uten markedspris og usikkerhet | ES | Veil Kap 4.1, 3.6, 4.4 |
-|uke 39 |AK 2  | Utdeling av andre arbeidskrav |  | Lenke kommer her  |
 |uke 40|F11  | Sammenfatning av effekter  | ES | Veil Kap 3.7, 3.8 |
 |3. oktober og utover|F12 | Anvendelser  | ES |  |
 |uke 41 |**Frist** AK 2  | Innlevering av andre arbeidskravbeidskrav |  |Fredag 13. okt. 1600, lenke til Canvas kommer  |
-|uke 41 |PRO  | Utdeling av prosjektoppgave |  |Oppgaven kommer her   |
 |uke 47 |**Frist** PRO  | Presentasjon av prosjektroppgaven |  |Påmelding kommer her   |
 |4. desember |**Frist** PRO  | Innlevering av prosjektoppgave |  |Kl. 13.00 i [Wiseflow](https://europe.wiseflow.net/){:target='_blank_'}   |
 
