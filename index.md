@@ -76,7 +76,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 articles/Kommunedelplan_KU_ny_tverrforbindelse_ny_kval%C3%B8yforbindelse.pdf
 *Analyser*        
 - [Ny kvaløyaforbindelse](articles/Kommunedelplan_KU_ny_tverrforbindelse_ny_kval%C3%B8yforbindelse.pdf){:target="blank"} Statens Vegvesen, 2015
-- [Nordlys vindpark](articles/Nordlys vindpark-ringvirkningsanalyse.pdf){:target="blank"} Statens Vegvesen, 2015
+- [Nordlys vindpark](articles/Nordlys vindpark-ringvirkningsanalyse.pdf){:target="blank"} Ny Analyse, 2018
 - [Samfunnsøkonomisk analyse av lisensordning for pengespill](/articles/2018-68-Samfunnsøkonomisk-analyse-av-lisensordning-for-pengespill-1.pdf){:target="blank"}, Menon Economics, 2018.
 - [Musikk i kroner og ører - Samfunnsøkonomiske gevinster ved det frivillige musikklivet](/articles/va-rapport_2021-21_musikk_i_kroner_og_orer.pdf){:target="blank"}, Vista Analyse, 2021
 - [Samfunnsøkonomisk analyse av Nye servicejobber](/articles/va-rapport_2021-37_nye_servicejobber.pdf){:target="blank"}, Vista Analyse, 2021
