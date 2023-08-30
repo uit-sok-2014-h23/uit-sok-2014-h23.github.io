@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -79,17 +113,108 @@ ul.task-list li input[type="checkbox"] {
 <li>tapt tid i arbeid og opplevd stress når barnehagetilbudet reduseres</li>
 </ul>
 </section>
+<section id="omfordeling" class="level1">
+<h1>Omfordeling</h1>
+<p>Omfordeling av ressurser mellom berørte grupper gir i utgangspunktet ingen reell effekt for samfunnet som helhet og vil derfor ikke påvirke den samfunnsøkonomiske lønnsomheten av et tiltak. Den nytten én gruppe oppnår av tiltaket, motsvares da av en like stor kostnad for en annen gruppe. Dette gjelder for eksempel merverdiavgift, som virksomhetene krever inn av kundene sine på vegne av staten.</p>
+<p>Dersom omfordelingen fører til endret adferd hos dem som mottar eller fratas midler, skal slike tilpasninger tas med som en samfunnsøkonomisk virkning. Det finnes en rekke overføringer som vil kunne lede til endret adferd, for eksempel avgifter, tilskudd eller subsidier. For eksempel kan reduserte avgifter lede til at flere bedrifter etablerer seg i et marked.</p>
+<p>Det er viktig å huske på at omfordelingen mellom ulike grupper kan innebære en endring i skattefinansieringskostnaden og dermed påvirke tiltakets samfunnsøkonomiske lønnsomhet. For eksempel vil økt barne- eller arbeidstrygd føre til økt skattefinansieringskostnad.</p>
+</section>
 <section id="dobbeltelling" class="level1">
 <h1>Dobbeltelling:</h1>
 <p>Tiltak vil ofte kunne tilsynelatende ha flere virkninger som egentlig er den samme. For eksempel:</p>
 <ul>
-<li>En miljøavgift sørger for redusert produksjon av en vare med negative eksterne effekter (for eksempel en forurensende bedrift). Det reduserte forbruket er ikke en ekstra virkning, men bare en kostnad som er flyttet fra negative miljøkonsekvenser for samfunnet til et dødvektstap.</li>
+<li>En miljøavgift sørger for redusert produksjon av en vare med negative eksterne effekter (for eksempel en forurensende bedrift). Det reduserte forbruket er ikke en ekstra virkning, men bare en kostnad som er flyttet fra negative miljøkonsekvenser for samfunnet til et “tilsynelatende dødvektstap”.</li>
 <li>En kanskje enda vanligere dobbeltelling er samme virkning med ulik benevnelse, for eksempel om en både teller opp at det er blitt flere fisk i elven på grunn av mindre forurensning og at fiskerene har fått økt overskudd.</li>
 </ul>
+<div class="cell" data-tags="[]" data-execution_count="8">
+<details>
+<summary>Code</summary>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">#drawing 100 points in the interval 0.0 to 100</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> matplotlib <span class="im">import</span> pyplot <span class="im">as</span> plt</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sympy.solvers <span class="im">import</span> solve</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> sympy <span class="im">as</span> sp</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>EXTERNAL_EFFECT <span class="op">=</span> <span class="dv">10</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> supply(x):</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> (x<span class="op">**</span><span class="dv">2</span>)<span class="op">*</span>(<span class="dv">1</span><span class="op">/</span><span class="dv">250</span>)</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>    </span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> demand(x):</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> <span class="dv">3000</span><span class="op">/</span>(<span class="dv">100</span><span class="op">+</span>x)</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>q <span class="op">=</span> np.linspace(<span class="dv">1</span>,<span class="dv">100</span>,<span class="dv">100</span>)</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="co">#creating the plot</span></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>q <span class="op">=</span> np.linspace(<span class="dv">0</span>,<span class="dv">100</span>,<span class="dv">100</span>)</span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>fig,ax<span class="op">=</span>plt.subplots(figsize<span class="op">=</span>(<span class="dv">12</span>, <span class="dv">8</span>))</span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>ax.set_ylabel(<span class="st">'Pris'</span>)</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>ax.set_xlabel(<span class="st">'Enheter'</span>)</span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a><span class="co">#drawing supply</span></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>ax.plot(q,supply(q),label<span class="op">=</span><span class="st">'Tilbud'</span>)</span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a><span class="co">#drawing demand</span></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>ax.plot(q,demand(q),color<span class="op">=</span><span class="st">'green'</span>,label<span class="op">=</span><span class="st">'Etterspørsel'</span>)</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="co">#drawing supply after external effects</span></span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>ax.plot(q,supply(q)<span class="op">+</span>EXTERNAL_EFFECT,label<span class="op">=</span><span class="st">'Tilbud etter eksterne virkninger'</span>, color<span class="op">=</span><span class="st">'lightgrey'</span>)</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a><span class="co">#drawing demand after external effects</span></span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>ax.plot(q,demand(q)<span class="op">-</span>EXTERNAL_EFFECT,label<span class="op">=</span><span class="st">'Etterspørsel etter eksterne virkninger'</span>, color<span class="op">=</span><span class="st">'lightgrey'</span>)</span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a><span class="co">#adding legend:</span></span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>ax.legend(loc<span class="op">=</span><span class="st">'upper center'</span>,frameon<span class="op">=</span><span class="va">False</span>)</span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a><span class="co">#Solving for equilibrium</span></span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> equlibrium(demand, supply, effect):</span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>    x<span class="op">=</span>sp.symbols(<span class="st">'x'</span>)</span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>    eq_cond<span class="op">=</span>sp.Eq(demand(x),supply(x)<span class="op">+</span>effect)</span>
+<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>    x_eq<span class="op">=</span>solve(eq_cond,x)</span>
+<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>    p_eq<span class="op">=</span>demand(x_eq[<span class="dv">0</span>])</span>
+<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> <span class="bu">float</span>(x_eq[<span class="dv">0</span>]), <span class="bu">float</span>(p_eq)</span>
+<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a>x_eq, p_eq <span class="op">=</span> equlibrium(demand, supply, <span class="dv">0</span>)</span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>x_eq_ext, p_eq_ext <span class="op">=</span> equlibrium(demand, supply, EXTERNAL_EFFECT)</span>
+<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a><span class="co"># Add vertical grey line at x_eq</span></span>
+<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a>ax.axvline(x<span class="op">=</span>x_eq, color<span class="op">=</span><span class="st">'grey'</span>)</span>
+<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a>ax.axvline(x<span class="op">=</span>x_eq_ext, color<span class="op">=</span><span class="st">'lightgrey'</span>)</span>
+<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a><span class="co">#fills </span></span>
+<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a>q <span class="op">=</span> np.linspace(<span class="dv">1</span>,x_eq,<span class="dv">100</span>)</span>
+<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a>ax.fill_between(q,demand(q),supply(q), color <span class="op">=</span> <span class="st">"pink"</span>,alpha <span class="op">=</span> <span class="fl">0.3</span>,label<span class="op">=</span><span class="st">'Konsumentoverskudd uten eksterne effekter'</span>)</span>
+<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a>q <span class="op">=</span> np.linspace(<span class="dv">1</span>,x_eq_ext,<span class="dv">100</span>)</span>
+<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a>ax.fill_between(q,demand(q),supply(q)<span class="op">+</span>EXTERNAL_EFFECT, color <span class="op">=</span> <span class="st">"pink"</span>,alpha <span class="op">=</span> <span class="fl">0.3</span>,label<span class="op">=</span><span class="st">'Konsumentoverskudd med eksterne effekter'</span>)</span>
+<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a>q <span class="op">=</span> np.linspace(x_eq_ext,x_eq,<span class="dv">100</span>)</span>
+<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a>ax.fill_between(q,demand(q),supply(q)<span class="op">+</span>EXTERNAL_EFFECT, color <span class="op">=</span> <span class="st">"blue"</span>,alpha <span class="op">=</span> <span class="fl">0.2</span>,label<span class="op">=</span><span class="st">'Gevinst på redusert tilbud'</span>)</span>
+<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a>q <span class="op">=</span> np.linspace(x_eq_ext,x_eq,<span class="dv">100</span>)</span>
+<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a>ax.fill_between(q,demand(q)<span class="op">-</span>EXTERNAL_EFFECT,supply(q), color <span class="op">=</span> <span class="st">"yellow"</span>,alpha <span class="op">=</span> <span class="fl">0.2</span>,label<span class="op">=</span><span class="st">'gevinst på redusert etterspørsel'</span>)</span>
+<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a>ax.legend(loc<span class="op">=</span><span class="st">'upper center'</span>,frameon<span class="op">=</span><span class="va">False</span>)</span>
+<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-71"><a href="#cb1-71" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="ss">f"Likevektsvolum uten eksterne effekter er </span><span class="sc">{</span>x_eq<span class="sc">}</span><span class="ss">"</span>)</span>
+<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="ss">f"Likevektsvolum med eksterne effekter er </span><span class="sc">{</span>x_eq_ext<span class="sc">}</span><span class="ss">"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</details>
+<div class="cell-output cell-output-stdout">
+<pre><code>Likevektsvolum uten eksterne effekter er 67.01254150645487
+Likevektsvolum med eksterne effekter er 50.0</code></pre>
+</div>
+<div class="cell-output cell-output-display">
+<p><img src="Forelesning_4_files/figure-html/cell-2-output-2.png" class="img-fluid"></p>
+</div>
+</div>
+<p>I figuren er en situasjon med eksterne virkninger tegnet opp. Vi ser at pareto-optimalt volum faller fra 67 til 50. Dersom markedet før konsumerte 67 og myndigheten pålegger en avgift som de mener tilsvarer den eksterne effekten,</p>
 </section>
 <section id="identifiser-og-beskriv-virkningene" class="level1">
 <h1>Identifiser og beskriv virkningene</h1>
-<p>For å identifisere de samfunnsøkonomiske virkningene for hvert av tiltakene som utredes, anbefaler vi å følge disse stegene:</p>
+<p>For å identifisere de samfunnsøkonomiske virkningene for hvert av tiltakene som utredes, anbefales det å følge disse stegene:</p>
 <ol type="1">
 <li>Identifiser de berørte gruppene.</li>
 <li>Spesifiser egenskapene som driver virkningene for de berørte gruppene.</li>
