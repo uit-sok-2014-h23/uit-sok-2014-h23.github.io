@@ -17,7 +17,7 @@ Veil: [Veileder i samfunnsøkonomiske analyser](https://dfo.no/sites/default/fil
 |24. august|F2  | [Direkte private og sosiale effekter](https://uit-sok-2014-h23.github.io/forelesninger/CBA_24_08.pdf) | TK | GdR Kap 2, [Suppl.1](https://uit-sok-2014-h23.github.io/forelesninger/Ch5.pdf) | 
 |25. august|F3  | [Indirekte effekter](https://uit-sok-2014-h23.github.io/forelesninger/CBA_25_08.pdf) | TK | GdR Kap 3, [Suppl.2](https://uit-sok-2014-h23.github.io/forelesninger/Ch7.pdf) |
 |30. august |F4  | [Identifisering av virkninger og ringvirkninger](https://uit-sok-2014-h23.github.io/forelesninger/Forelesning_4.html)   | ES | Veil Kap 3.3, 4.3 vedlegg 1.1 |
-|7. september|F5  | Alternative kostnader, markedspris, og skyggepris  | TK | GdR Kap 4 |
+|7. september|F5  | Alternative kostnader, markedspris, og skyggepris  | TK | GdR Kap 4, [Suppl.3](https://uit-sok-2014-h23.github.io/forelesninger/Ch6.pdf) |
 |8. september|F6  | Diskontering og beslutningskriterier  | TK | GdR Kap 5, 6 |
 |15. september|F7  | Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet  | ES | Veil Kap 3.4, 3.5 |
 |uke 37 |**Frist** AK 1  | Innlevering av første arbeidskravbeidskrav |  |Fredag 15. sept. 1600, lenke til Canvas kommer  |
