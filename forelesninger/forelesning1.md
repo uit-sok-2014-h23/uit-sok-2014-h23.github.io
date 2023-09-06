@@ -1,3 +1,5 @@
+{% include navbar.html %}  {% include top-box.html %} 
+
 ---
 title: SOK-2014 Forelesning 4 - Nyttekostnadsanalyse i teori og praksis
 ---
@@ -15,7 +17,9 @@ Alle innleveringer vil handle om ett case som dere skal jobbe med gjennom hele s
 På Melkøya ligger landanlegget som driver gassutvinningen til Snøhvitfeltet. Litt av gassen brukes til å generer strømmen som anlegget bruker. 
 Utslippene fra gasskraftverket på Melkøya utgjør ca. 2 prosent av norske utslipp. Norge er en del av EUs kvotemarked, så Equinor kjøper i dag 
 CO2-kvoter for utslippene og har en nasjonal målsetting om 50-55 prosent reduksjon i CO2 utslipp innen 2030. EU har vedtatt det samme, men i 
-motsetning til andre EU-land har Stortinget vedtatt at alle kuttene skal tas innenlands. Det betyr at Norge må kutte til en høyere kostnad enn 
+motsetning til andre EU-land har Stortinget vedtatt at alle kuttene skal tas innenlands. 
+
+Det betyr at Norge må kutte til en høyere kostnad enn 
 kvoteprisen i EU. Regjeringen og Equinor ønsker å kutte utslippene fra Snøhvitfeltet ved å legge ned gasskraftverket som forsyner feltet. 
 Regjeringen og Equinor ønsker i stedet å ta kraften fra elforsyningen på fastlandet
 

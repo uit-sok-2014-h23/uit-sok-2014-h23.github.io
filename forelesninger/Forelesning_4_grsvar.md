@@ -1,6 +1,7 @@
+{% include navbar.html %}  {% include top-box.html %} 
+
 ---
 title: Hva sier rapportene om - Virkninger og ringvirkninger
-theme: cerulan
 ---
 
 # Kvaløyaforbindelse
