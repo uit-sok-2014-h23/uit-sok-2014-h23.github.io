@@ -13,7 +13,7 @@ Veil: [Veileder i samfunnsøkonomiske analyser](https://dfo.no/sites/default/fil
 
 |Dato <img width=100/>| Sesjon <img width=80/>   | Tema                                                              | Lærer  | Ressurser <img width=200/>  |
 |--------|----------------|----------------------------------------------------------------------|-----------|--------------------------------------|
-| 17. august|F1   | [Innledning - Hva er kostnads-nytte analyse, og hvordan gjennomføres dette?](https://uit-sok-2014-h23.github.io/forelesninger/Forelesning_1.html)     | ES       | GdR Kap 1, Veil Kap. 1, 2, 3.1, 3.2  | 
+| 17. august|F1   | [Innledning - Hva er kostnads-nytte analyse, og hvordan gjennomføres dette?](https://uit-sok-2014-h23.github.io/forelesninger/forelesning1.html)     | ES       | GdR Kap 1, Veil Kap. 1, 2, 3.1, 3.2  | 
 |24. august|F2  | [Direkte private og sosiale effekter](https://uit-sok-2014-h23.github.io/forelesninger/CBA_24_08.pdf) | TK | GdR Kap 2, [Suppl.1](https://uit-sok-2014-h23.github.io/forelesninger/Ch5.pdf) | 
 |25. august|F3  | [Indirekte effekter](https://uit-sok-2014-h23.github.io/forelesninger/CBA_25_08.pdf) | TK | GdR Kap 3, [Suppl.2](https://uit-sok-2014-h23.github.io/forelesninger/Ch7.pdf) |
 |30. august |F4  | [Identifisering av virkninger og ringvirkninger](https://uit-sok-2014-h23.github.io/forelesninger/Forelesning_4.html)   | ES | Veil Kap 3.3, 4.3 vedlegg 1.1 |
