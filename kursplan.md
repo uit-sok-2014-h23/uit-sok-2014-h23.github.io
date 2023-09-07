@@ -27,7 +27,7 @@ Veil: [Veileder i samfunnsøkonomiske analyser](https://dfo.no/sites/default/fil
 |uke 40|F11  | Sammenfatning av effekter  | ES | Veil Kap 3.7, 3.8 |
 |3. oktober og utover|F12 | Anvendelser  | ES |  |
 |uke 41 |**Frist** AK 2  | Innlevering av andre arbeidskravbeidskrav |  |[Fredag 13. okt. 1600](https://uit.instructure.com/courses/31574/assignments/100397)  |
-|uke 47 |**Frist** PRO  | Presentasjon av prosjektroppgaven |  |Påmelding kommer her   |
+|22/11 |**Presentasjon** | Presentasjon av prosjektroppgaven (Rom 02.216 - Økonomen) | ES/TK |[Påmelding](https://forms.office.com/Pages/ResponsePage.aspx?id=LSF_Ttt0Y0Wle4rkTtBVJjhP3KMFoaZDp37xqZnsVYtUQTM3UDBRWjQzNFUwOVMxTDdWRTM1OFEyRC4u)   |
 |4. desember |**Frist** PRO  | Innlevering av prosjektoppgave |  |Kl. 13.00 i [Wiseflow](https://europe.wiseflow.net/){:target='_blank_'}   |
 
 
