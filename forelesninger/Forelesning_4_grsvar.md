@@ -18,6 +18,10 @@ title: Hva sier rapportene om - Virkninger og ringvirkninger
 	* Sikkerhet
 	* Regional utvikling
 	* Enklere trafikkavikling
+ * Virkning:
+   * Kvantum: 35 200 passeringer
+   * Timekostnad: ?
+   * Tidsbesparelese: ?
 	
 	
 # Nordlys vindpark
@@ -32,6 +36,9 @@ title: Hva sier rapportene om - Virkninger og ringvirkninger
 	* Påvirkning dyreliv
 * Ringvirkninger
 	* Arbeidsplasser
+* Virkning:
+   * 1. Kommunen: skatt
+   * 2. Produksjon: Mwh 281 x kraftpris
 
 
 # Samfunnsøkonomisk analyse av lisensordning for pengespill
@@ -78,4 +85,46 @@ Ringvirkninger:
 	* Mindre stønader
 	* Husholdningers velferdsgevinst ved unngå svart arbeid
 	* Avlaste pårørende
+ * Kostnad:
+   * Samfunnsøkonomisk kostnad på 195 mill (tapte skatteinntekter)
+
+* Ringvirkninger:
+  * Avlaste eldre/pårørende
+  * Mer gjennbruk (mer reparasjon)
+* Virkninger:
+  * Antall pårørende: 800 000
+  * Enhetsverdi, timekostnad: 252,5
+
+
+# Bygging av idrettshall
+* Oppdragsgiver: Norges Idrettsforbund
+* Tiltak: Bygging av idrettshaller
+* Nytte:
+  * Bedre folkehelse
+  * Sosial møteplass
+  * Publikumsnytte
+  * Høyere levealder
+* Kostnader
+  * Investeringer
+  * Skattefinansiering
+* Ringvirkning:
+  * Mer aktivt arbeids- og samfunnsliv
+* Virkning:
+  * Antall berørte: 400 000
+  * Virkning: 3,4 min
+  * -> folk jobber 19 min mer per år
+  * 400 000 x 400 kr x 0.33 t = 50 000 000
+  
+
+
+
+
+
+
+
+
+
+
+
+
 
