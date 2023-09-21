@@ -1,8 +1,10 @@
+---
+title: Gruppesvar
+---
+
 {% include navbar.html %}  {% include top-box.html %} 
 
----
-title: Hva sier rapportene om - Virkninger og ringvirkninger
----
+
 
 # Kvaløyaforbindelse
 * Oppdragsgiver/Forfatter: Statens Vegvesen
