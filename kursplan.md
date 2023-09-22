@@ -22,7 +22,7 @@ Veil: [Veileder i samfunnsøkonomiske analyser](https://dfo.no/sites/default/fil
 |15. september|F7  | Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet  | ES | Veil Kap 3.4, 3.5 |
 |uke 37 |**Frist** AK 1  | Innlevering av første arbeidskravbeidskrav |  |[Fredag 15. sept. 1600](https://uit.instructure.com/courses/31574/assignments/100396)  |
 |21. september|F8  | [Verdsetting av virkninger uten markedspris](https://uit-sok-2014-h23.github.io/forelesninger/CBA_21_09.pdf) | TK | GdR Kap 7, 8 |
-|22. september|F9  | Usikkerhet  | TK | GdR Kap. 9, [Suppl.4](https://uit-sok-2014-h23.github.io/forelesninger/Ch11.pdf) |
+|22. september|F9  | [Usikkerhet](https://uit-sok-2014-h23.github.io/forelesninger/CBA_22_09.html)  | TK | GdR Kap. 9, [Suppl.4](https://uit-sok-2014-h23.github.io/forelesninger/Ch11.pdf) |
 |28. september |F10  | Virkninger uten markedspris og usikkerhet | ES | Veil Kap 4.1, 3.6, 4.4 |
 |uke 40|F11  | Sammenfatning av effekter  | ES | Veil Kap 3.7, 3.8 |
 |3. oktober og utover|F12 | Anvendelser  | ES |  |
