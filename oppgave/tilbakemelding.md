@@ -29,13 +29,17 @@ Merk også at ihht. [Parisavtalen (artikkel 6.4)](https://unfccc.int/sites/defau
 Mål bør også være så overordnet som mulig. Det er for eksempel ikke et mål å hente kraft fra fastlands-Norge, men det er et mål å redusere norske utslipp. Jeg tenker derfor vi kan konsentrere oss om disse alternative målene (som innebærer tre forskjellige analyser):
 1.	Redusere norske utslipp i henhold til Stortingets målsetning om å redusere innenlandske utslipp med 55% inn 2030. Kostnaden ved å kutte andre steder i Norge er da alternativkostnaden ved utslipp. 
 2.	Redusere globale utslipp i henhold til Parisavtalen (altså at utslipp innenfor kvotemarkedet ikke regnes med blant nasjonale målsettinger). Kvoteprisen i EU er da alternativkostnaden til utslipp.
+
+
 Dere kan velge ett eller begge målene. Det kan også være interessant om dere beregner om tiltakene er bedriftsøkonomisk lønnsomme. 
 
 ## Tiltak
 Når det gjelder tiltak tror jeg fremover vi skal begrense oss til disse alternativene:
+
 * Fortsette som nå
 * Full elektrifisering: Ny linje fra Skadi-Hammerfest og kompresjon
 * Delvis elektrifisering: Fortsatt kraft fra gasskraftverket og kraft til kompresjon fra eksisterende nett (ingen utbygging)
+
 Om dere skal ta med kraftutbyggingen som er planlagt med full elektrifisering, kan det være hensiktsmessig å ta med både et alternativ med og et alternativ uten kraftutbygging. 
 Husk at Ingen av tiltakene, inkludert «fortsett som nå» kan karakterers som mindre eller mer effektive i denne fasen. Det er dette utredningen deres skal finne ut!
 
