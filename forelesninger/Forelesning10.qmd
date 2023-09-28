@@ -153,6 +153,7 @@ format:
 ## Gegografisk fordeling
 Bruk det dere lærte i sok-1005:
 ![Kart](img/tromso.png)
-[notebooks](https://espensirnes.github.io/notebooks/html/11%20-%20interaktive%20websider.html)
+
+[Lenke til notebooks](https://espensirnes.github.io/notebooks/html/11%20-%20interaktive%20websider.html)
 
 
