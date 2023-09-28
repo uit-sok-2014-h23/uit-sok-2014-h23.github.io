@@ -20,9 +20,9 @@ Det er et par argumenter for at det likevel blir en klimaeffekt:
 Dersom Equinor lar vær å elektrifisere, kan det argumenteres for at sjansen for at EU legger inn nye kvoter synker, og sjansen for at de sletter kvoter utenom slettemekanismen øker.  Dette vil imidlertid være en svært usikker effekt. I beste fall snakker vi altså om at elektrifiseringen kan øke eller redusere en sannsynlighet.
 
 Ser at noen nevner argumentet om at «gassen blir uansett solgt til noen andre», men det er ikke noe hovedpoeng, mindre etterspørsel vil for så vidt også dempe produksjonen noe. Det viktigste er at kvotetaket i utgangspunktet tilsier at utslippene forblir uendret. 
-Det er også mye som tilsier at kjøleanlegget operer på full kapasitet, slik at gassen som gasskraftverket bruker, ikke kan selges. Det skulle i utgangspunktet bygges ut ekstra kjølekapasitet (Prosjektet het «Tog II» https://www.tu.no/artikler/gront-lys-for-tog-2/246901 ), men det ble skrinlagt, så det stemmer nok at kapasiteten er sprengt. Dette vil også påvirke alternativkostnaden for gass. 
-Merk også at ihht. Parisavtalen (artikkel 6.4) så er  klimamål oppfylt dersom utslippene skjer i et kvotemarked som totalt sett gir utslippsreduksjoner i tråd med avtalen, slik som EUs kvotemarked.
-https://unfccc.int/sites/default/files/english_paris_agreement.pdf 
+Det er også mye som tilsier at kjøleanlegget operer på full kapasitet, slik at gassen som gasskraftverket bruker, ikke kan selges. Det skulle i utgangspunktet bygges ut ekstra kjølekapasitet ([Prosjektet het «Tog II»](https://www.tu.no/artikler/gront-lys-for-tog-2/246901) ), men det ble skrinlagt, så det stemmer nok at kapasiteten er sprengt. Dette vil også påvirke alternativkostnaden for gass. 
+Merk også at ihht. [Parisavtalen (artikkel 6.4)](https://unfccc.int/sites/default/files/english_paris_agreement.pdf) så er  klimamål oppfylt dersom utslippene skjer i et kvotemarked som totalt sett gir utslippsreduksjoner i tråd med avtalen, slik som EUs kvotemarked.
+
 
 
 ## Mål
