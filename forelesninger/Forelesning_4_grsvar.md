@@ -23,7 +23,7 @@ title: Gruppesvar
  * Virkning:
    * Kvantum: 35 200 passeringer
    * Timekostnad: ?
-   * Tidsbesparelese: ?
+   * Tidsbesparelse: ?
 	
 	
 # Nordlys vindpark

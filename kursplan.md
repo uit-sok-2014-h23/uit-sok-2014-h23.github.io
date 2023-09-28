@@ -19,7 +19,7 @@ Veil: [Veileder i samfunnsøkonomiske analyser](https://dfo.no/sites/default/fil
 |30. august |F4  | [Identifisering av virkninger og ringvirkninger](https://uit-sok-2014-h23.github.io/forelesninger/Forelesning_4.html)   | ES | Veil Kap 3.3, 4.3 vedlegg 1.1 |
 |7. september|F5  | [Alternative kostnader, markedspris, og skyggepris](https://uit-sok-2014-h23.github.io/forelesninger/CBA_06_09.pdf) | TK | GdR Kap 4, [Suppl.3](https://uit-sok-2014-h23.github.io/forelesninger/Ch6.pdf) |
 |8. september|F6  | [Diskontering og beslutningskriterier](https://uit-sok-2014-h23.github.io/forelesninger/CBA_08_09.pdf) | TK | GdR Kap 5, 6 |
-|15. september|F7  | Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet  | ES | Veil Kap 3.4, 3.5 |
+|15. september|F7  | [Tallfesting av virkninger og beregning av samfunnsøkonomisk lønnsomhet](https://uit-sok-2014-h23.github.io/forelesninger/Forelesning%207.html)  | ES | Veil Kap 3.4, 3.5 |
 |uke 37 |**Frist** AK 1  | Innlevering av første arbeidskravbeidskrav |  |[Fredag 15. sept. 1600](https://uit.instructure.com/courses/31574/assignments/100396)  |
 |21. september|F8  | [Verdsetting av virkninger uten markedspris](https://uit-sok-2014-h23.github.io/forelesninger/CBA_21_09.pdf) | TK | GdR Kap 7, 8 |
 |22. september|F9  | [Usikkerhet](https://uit-sok-2014-h23.github.io/forelesninger/CBA_22_09.html)  | TK | GdR Kap. 9, [Suppl.4](https://uit-sok-2014-h23.github.io/forelesninger/Ch11.pdf) |
