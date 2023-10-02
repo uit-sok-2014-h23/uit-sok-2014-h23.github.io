@@ -24,8 +24,9 @@ Veil: [Veileder i samfunnsøkonomiske analyser](https://dfo.no/sites/default/fil
 |21. september|F8  | [Verdsetting av virkninger uten markedspris](https://uit-sok-2014-h23.github.io/forelesninger/CBA_21_09.pdf) | TK | GdR Kap 7, 8 |
 |22. september|F9  | [Usikkerhet](https://uit-sok-2014-h23.github.io/forelesninger/CBA_22_09.html)  | TK | GdR Kap. 9, [Suppl.4](https://uit-sok-2014-h23.github.io/forelesninger/Ch11.pdf) |
 |28. september |F10  | [Virkninger uten markedspris og usikkerhet](https://uit-sok-2014-h23.github.io/forelesninger/Forelesning10.html) | ES | Veil Kap 4.1, 3.6, 4.4 |
-|uke 40|F11  | Sammenfatning av effekter  | ES | Veil Kap 3.7, 3.8 |
-|3. oktober og utover|F12 | Anvendelser  | ES |  |
+|3. oktober|F11  | Sammenfatning av effekter  | ES | Veil Kap 3.7, 3.8 |
+|10. oktober|F12 | Beregnig av elastisiteter til oppgaven  | ES |  |
+|17. oktober|F13 | Presentasjon Statoil  | ES |  |
 |uke 41 |**Frist** AK 2  | Innlevering av andre arbeidskravbeidskrav |  |[Fredag 13. okt. 1600](https://uit.instructure.com/courses/31574/assignments/100397)  |
 |22/11 |**Presentasjon** | Presentasjon av prosjektroppgaven (Rom 02.216 - Økonomen) | ES/TK |[Påmelding](https://forms.office.com/Pages/ResponsePage.aspx?id=LSF_Ttt0Y0Wle4rkTtBVJjhP3KMFoaZDp37xqZnsVYtUQTM3UDBRWjQzNFUwOVMxTDdWRTM1OFEyRC4u)   |
 |4. desember |**Frist** PRO  | Innlevering av prosjektoppgave |  |Kl. 13.00 i [Wiseflow](https://europe.wiseflow.net/){:target='_blank_'}   |
