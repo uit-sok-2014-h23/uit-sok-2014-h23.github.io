@@ -53,7 +53,7 @@ format:
 
 ## Kostnadsbasert verdsettelse
 
-* Beregne hva det vil koste å unntå eller avbøte tapet av et miljøgode
+* Beregne hva det vil koste å unngå eller avbøte tapet av et miljøgode
 * F.eks. støyisolering
 
 # Usikkerhetsanalyse
@@ -157,3 +157,10 @@ Bruk det dere lærte i sok-1005:
 [Lenke til notebooks](https://espensirnes.github.io/notebooks/html/11%20-%20interaktive%20websider.html)
 
 
+
+# Oppgave:
+
+Se på rapportene
+
+* Finn ett eksempel på verdivurderinger der det ikke finnes noe faktisk marked, eller foreslå hvor forfatterne kunne ha gjort verdivurderinger
+* Hvilken metode har forfatterne brukt på å finne verdien?
