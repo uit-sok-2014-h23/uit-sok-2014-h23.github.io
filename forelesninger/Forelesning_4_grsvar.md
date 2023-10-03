@@ -12,18 +12,23 @@ title: Gruppesvar
 * Nytte:
 	* Trafikanter tidsbeparelser/nytte
 	* Omgivelser: Mindre ulykker/mindre forurensning
-*Kostnader:
+* Kostnader:
 	* Investering
 	* Drift/vedlikehold
-*Ringvirkninger
+* Ringvirkninger
 	* Sylister
 	* Sikkerhet
 	* Regional utvikling
 	* Enklere trafikkavikling
- * Virkning:
+* Virkning:
    * Kvantum: 35 200 passeringer
    * Timekostnad: ?
    * Tidsbesparelse: ?
+
+* Verdivurdering:
+	* Støyforurensning: standard tabell
+	* Gyting fisk 
+	* Fugl
 	
 	
 # Nordlys vindpark
@@ -50,12 +55,15 @@ title: Gruppesvar
 	* Skatteinntekter
 	* Lavere skattekostnader
 	* Spilleavhengighet
-Kostnader:
+* Kostnader:
 	* Lavere overføringer fra Norsk Tipping/Rikstoto
 	* Kostnader for å regulere markedet
 	* Spilleavhengighet
-Ringvirkninger:
+* Ringvirkninger:
 	* Idrettslag mister støtte
+ * Virkninger:
+   * Størrelse på markedet
+   * Endring i kanaliseringsgrad (andel i lisensierte kanaler)
 
 
 # Musikk i kroner og ører - Samfunnsøkonomiske gevinster ved det frivillige musikklivet
@@ -74,7 +82,10 @@ Ringvirkninger:
 	* Lokaler
 * Ringvirkning
 	* Økt produktivitet
-	
+
+* Virkninger
+	* Helsegivenster: Reduksjon i antall sykedager (Spørreundersøkelse)
+	* Livslengde: Dødlighetstabeller
 	
 	
 # Samfunnsøkonomisk analyse av Nye servicejobber
@@ -97,6 +108,11 @@ Ringvirkninger:
   * Antall pårørende: 800 000
   * Enhetsverdi, timekostnad: 252,5
 
+* Verdivurdering:
+	* Spørreundersøkelse: Redusert stilling pga belastning
+	* Mer reparasjon og gjennbruk: Kostnad med el-afvall
+	* Økt integrering: Andre studier
+
 
 # Bygging av idrettshall
 * Oppdragsgiver: Norges Idrettsforbund
@@ -118,7 +134,10 @@ Ringvirkninger:
   * 400 000 x 400 kr x 0.33 t = 50 000 000
   
 
-
+# Nordnorgebaneb:
+* Verdivurdering:
+Reisevaneundersøkelsen 2005 og 2009 (persontransport)
+Godstransport TØI 2018 estimater for 2030 og 2050
 
 
 
