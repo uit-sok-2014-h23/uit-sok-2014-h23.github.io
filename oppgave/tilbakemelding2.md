@@ -6,17 +6,18 @@ title: Tilbakemelding Mappeoppgave 2
 
 # Tilbakemelding Mappeoppgave 2
 
-# Info fra Euinor/Myklebust:
-* Kostnad 13.2 mrd
-* 50 % elektrifisering og 50 % kompressjon
-* Synnergieffekter ca 2 mrd
-* -> kompressjon alene koster ca 8,5 mrd
-* -> ekstrakostnad elektrifisering 4,7 mrd
+## Info fra Euinor/Myklebust:
+	* Kostnad 13.2 mrd
+	* 50 % elektrifisering og 50 % kompressjon
+	* Synnergieffekter ca 2 mrd
+	* -> kompressjon alene koster ca 8,5 mrd
+	* -> ekstrakostnad elektrifisering 4,7 mrd
 
-
-## Anbefaler ikke å analysere kraftutbygging
-## Kalukasjonsrente:
-Som kjetil myklebust sa, er det vanlig å bruke 7% kalkulasjonsrente i oljesektoren
-## Virker som om noen er veldig ivrige i å dra konklusjoner allerede nå
-
-## Få hadde hentet inn noe særlig data. Dere begynner generelt å få lite tid til dataanalysen
+## Kommentarer:
+	* Anbefaler ikke å analysere kraftutbygging
+	* Som kjetil myklebust sa, er det vanlig å bruke 7% kalkulasjonsrente i oljesektoren
+	* For tidlig å dra konklusjoner allerede nå
+	* Få hadde hentet inn noe særlig data. Dere begynner generelt å få lite tid til dataanalysen/nåverdiberegningen
+	* Levering i notebookformat helt ok som arbeidskrav, men endelig rapport bær være kompoisert til pdf i Quarto, R-markdown, LaTex eller Word. 
+	* Etabler kontanstrømmen - regn ut kontanstrøm for hvert år i prosjektperioden
+	* Regn ut nåverdi
