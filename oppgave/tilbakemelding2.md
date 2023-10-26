@@ -6,7 +6,7 @@ title: Tilbakemelding Mappeoppgave 2
 
 # Tilbakemelding Mappeoppgave 2
 
-## Info fra Euinor/Myklebust:
+## Info fra Equinor/Myklebust:
 * Kostnad 13.2 mrd
 * 50 % elektrifisering og 50 % kompressjon
 * Synnergieffekter ca 2 mrd
