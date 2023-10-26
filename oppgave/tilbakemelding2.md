@@ -17,7 +17,7 @@ title: Tilbakemelding Mappeoppgave 2
 ## Kommentarer:
 * Anbefaler ikke å analysere kraftutbygging
 * For tidlig å dra konklusjoner allerede nå
-* Få hadde hentet inn noe særlig data. Dere begynner generelt å få lite tid til dataanalysen/nåverdiberegningen
+* Få hadde hentet inn noe særlig data. Begynner å haste med dataanalysen/nåverdiberegningen
 * Levering i notebookformat helt ok som arbeidskrav, men endelig rapport bær være kompoisert til pdf i Quarto, R-markdown, LaTex eller Word. 
 * Etabler kontanstrømmen - regn ut kontanstrøm for hvert år i prosjektperioden
 * Regn ut nåverdi
