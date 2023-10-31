@@ -21,3 +21,4 @@ title: Tilbakemelding Mappeoppgave 2
 * Levering i notebookformat helt ok som arbeidskrav, men endelig rapport bær være kompoisert til pdf i Quarto, R-markdown, LaTex eller Word. 
 * Etabler kontanstrømmen - regn ut kontanstrøm for hvert år i prosjektperioden
 * Regn ut nåverdi
+* Husk at utgangspunktet er bedriftsøkonomisk lønnsomhet. Når dere har tatt med alle bedriftsøkonomiske inntekter og kostnader i kontanstrømmen, må dere se om det er annen nytte/kostnad som ikke er tatt med i den bedriftsøkonomiske nåverdien. 
